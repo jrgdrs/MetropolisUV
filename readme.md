@@ -1,6 +1,6 @@
 # MetropolisUV
 
-Selection and customization moved uppercase letters also to lowcase letter positions and added small capitals of the font Metropolis (https://github.com/dw5/Metropolis) prepared communication for the Band Ultraviolet (https://ultraviolett-band.de).
+Selection and customization moved uppercase letters also to lowcase letter positions and added small capitals of the font Metropolis (https://github.com/dw5/Metropolis) prepared for the communications of the German band Ultraviolett (https://ultraviolett-band.de).
 
 ## Character set
 
