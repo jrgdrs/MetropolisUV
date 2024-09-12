@@ -1,0 +1,1 @@
+gftools builder sources/config.yaml
